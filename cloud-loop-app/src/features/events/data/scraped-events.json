@@ -6,20 +6,20 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-12",
-    "endDate": "2026-12-17",
+    "date": "2026-12-09",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-24",
+    "registrationDeadline": "2026-10-22",
     "description": "Join us for this exciting Hackathon organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Paid Internship Vouchers",
+    "prize": "MacBook Pro + Certificates",
     "tags": [
       "Unstop",
       "Hackathon",
       "Online"
     ],
-    "registered": 2594,
+    "registered": 4146,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -29,20 +29,20 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Competition",
-    "date": "2026-12-09",
-    "endDate": "2026-12-18",
+    "date": "2026-12-15",
+    "endDate": "2026-12-20",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
     "registrationDeadline": "2026-10-21",
     "description": "Join us for this exciting Competition organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Swags & Stickers",
+    "prize": "Cash Prizes Up to ₹10 Lakhs",
     "tags": [
       "Hack2skill",
       "Competition",
       "In-person"
     ],
-    "registered": 1046,
+    "registered": 3872,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -52,12 +52,12 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-09",
-    "endDate": "2026-12-21",
+    "date": "2026-11-04",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-28",
+    "registrationDeadline": "2026-10-19",
     "description": "Join us for this exciting Bootcamp organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -65,7 +65,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 877,
+    "registered": 3679,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -75,7 +75,7 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Workshop",
-    "date": "2026-12-12",
+    "date": "2026-12-15",
     "endDate": "2026-12-18",
     "location": "Pune, India",
     "isOnline": false,
@@ -88,7 +88,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 3507,
+    "registered": 3129,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -103,7 +103,7 @@
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-26",
     "description": "Join us for this exciting Conference organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -111,7 +111,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 2949,
+    "registered": 2588,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -121,12 +121,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-05",
-    "endDate": "2026-12-17",
+    "date": "2026-11-22",
+    "endDate": "2026-12-18",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-26",
+    "registrationDeadline": "2026-10-28",
     "description": "Join us for this exciting Hackathon organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Paid Internship Vouchers",
     "tags": [
@@ -134,7 +134,7 @@
       "Hackathon",
       "In-person"
     ],
-    "registered": 3602,
+    "registered": 3669,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -144,20 +144,20 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Competition",
-    "date": "2026-11-05",
-    "endDate": "2026-12-20",
+    "date": "2026-11-18",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-30",
     "description": "Join us for this exciting Competition organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Swags & Stickers",
+    "prize": "MacBook Pro + Certificates",
     "tags": [
       "GeeksforGeeks",
       "Competition",
       "Online"
     ],
-    "registered": 2470,
+    "registered": 1889,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -167,12 +167,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-23",
-    "endDate": "2026-12-17",
+    "date": "2026-11-09",
+    "endDate": "2026-12-20",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-26",
+    "registrationDeadline": "2026-10-28",
     "description": "Join us for this exciting Bootcamp organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -180,7 +180,7 @@
       "Bootcamp",
       "In-person"
     ],
-    "registered": 2631,
+    "registered": 735,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -195,7 +195,7 @@
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-24",
+    "registrationDeadline": "2026-10-22",
     "description": "Join us for this exciting Workshop organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -203,7 +203,7 @@
       "Workshop",
       "Online"
     ],
-    "registered": 3367,
+    "registered": 3293,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -213,12 +213,12 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Conference",
-    "date": "2026-11-19",
+    "date": "2026-12-08",
     "endDate": "2026-12-19",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-27",
+    "registrationDeadline": "2026-10-26",
     "description": "Join us for this exciting Conference organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -226,7 +226,7 @@
       "Conference",
       "In-person"
     ],
-    "registered": 2217,
+    "registered": 4499,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -236,20 +236,20 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-12",
-    "endDate": "2026-12-20",
+    "date": "2026-11-27",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Hackathon organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "MacBook Pro + Certificates",
+    "prize": "₹2,50,000 & Gadgets",
     "tags": [
       "Commudle",
       "Hackathon",
       "Online"
     ],
-    "registered": 2208,
+    "registered": 1654,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -259,20 +259,20 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Competition",
-    "date": "2026-12-02",
-    "endDate": "2026-12-21",
+    "date": "2026-12-01",
+    "endDate": "2026-12-17",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-20",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Competition organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Swags & Stickers",
+    "prize": "₹5,00,000 + Vouchers",
     "tags": [
       "Google Developer Groups",
       "Competition",
       "In-person"
     ],
-    "registered": 3546,
+    "registered": 1004,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -282,12 +282,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-11",
-    "endDate": "2026-12-21",
+    "date": "2026-11-10",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-19",
+    "registrationDeadline": "2026-10-30",
     "description": "Join us for this exciting Bootcamp organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -295,7 +295,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 3321,
+    "registered": 1060,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -305,12 +305,12 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Workshop",
-    "date": "2026-12-04",
-    "endDate": "2026-12-18",
+    "date": "2026-11-27",
+    "endDate": "2026-12-17",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-30",
     "description": "Join us for this exciting Workshop organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -318,7 +318,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 4408,
+    "registered": 3834,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -328,12 +328,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Conference",
-    "date": "2026-11-17",
+    "date": "2026-12-16",
     "endDate": "2026-12-20",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-21",
+    "registrationDeadline": "2026-10-20",
     "description": "Join us for this exciting Conference organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -341,7 +341,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 1050,
+    "registered": 645,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -351,20 +351,20 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-11-25",
+    "date": "2026-11-20",
     "endDate": "2026-12-21",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-26",
     "description": "Join us for this exciting Hackathon organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Swags & Stickers",
+    "prize": "Cash Prizes Up to ₹10 Lakhs",
     "tags": [
       "Hack2skill",
       "Hackathon",
       "In-person"
     ],
-    "registered": 2623,
+    "registered": 2228,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -374,20 +374,20 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Competition",
-    "date": "2026-11-22",
-    "endDate": "2026-12-21",
+    "date": "2026-12-15",
+    "endDate": "2026-12-17",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-26",
+    "registrationDeadline": "2026-10-30",
     "description": "Join us for this exciting Competition organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Swags & Stickers",
+    "prize": "₹2,50,000 & Gadgets",
     "tags": [
       "Naukri Campus",
       "Competition",
       "Online"
     ],
-    "registered": 474,
+    "registered": 2668,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -397,12 +397,12 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-14",
-    "endDate": "2026-12-17",
+    "date": "2026-11-19",
+    "endDate": "2026-12-19",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-19",
     "description": "Join us for this exciting Bootcamp organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -410,7 +410,7 @@
       "Bootcamp",
       "In-person"
     ],
-    "registered": 2160,
+    "registered": 1779,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -420,12 +420,12 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Workshop",
-    "date": "2026-11-07",
-    "endDate": "2026-12-18",
+    "date": "2026-12-04",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-31",
+    "registrationDeadline": "2026-10-28",
     "description": "Join us for this exciting Workshop organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -433,7 +433,7 @@
       "Workshop",
       "Online"
     ],
-    "registered": 4333,
+    "registered": 4164,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -443,12 +443,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Conference",
-    "date": "2026-11-16",
-    "endDate": "2026-12-21",
+    "date": "2026-12-09",
+    "endDate": "2026-12-20",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-31",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Conference organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -456,7 +456,7 @@
       "Conference",
       "In-person"
     ],
-    "registered": 1480,
+    "registered": 4048,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -466,20 +466,20 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-06",
+    "date": "2026-11-22",
     "endDate": "2026-12-17",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
     "registrationDeadline": "2026-10-29",
     "description": "Join us for this exciting Hackathon organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Paid Internship Vouchers",
+    "prize": "₹5,00,000 + Vouchers",
     "tags": [
       "GeeksforGeeks",
       "Hackathon",
       "Online"
     ],
-    "registered": 945,
+    "registered": 3627,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -489,20 +489,20 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Competition",
-    "date": "2026-11-21",
-    "endDate": "2026-12-19",
+    "date": "2026-11-03",
+    "endDate": "2026-12-21",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-31",
+    "registrationDeadline": "2026-10-29",
     "description": "Join us for this exciting Competition organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "₹2,50,000 & Gadgets",
+    "prize": "₹5,00,000 + Vouchers",
     "tags": [
       "Unstop",
       "Competition",
       "In-person"
     ],
-    "registered": 2574,
+    "registered": 3921,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -512,12 +512,12 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-23",
-    "endDate": "2026-12-18",
+    "date": "2026-11-02",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Bootcamp organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -525,7 +525,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 1381,
+    "registered": 695,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -535,12 +535,12 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Workshop",
-    "date": "2026-12-05",
+    "date": "2026-11-23",
     "endDate": "2026-12-19",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-27",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Workshop organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -548,7 +548,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 1353,
+    "registered": 3526,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -558,12 +558,12 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Conference",
-    "date": "2026-11-27",
-    "endDate": "2026-12-20",
+    "date": "2026-11-04",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-29",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Conference organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -571,7 +571,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 1582,
+    "registered": 1030,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -581,20 +581,20 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Hackathon",
-    "date": "2026-11-22",
-    "endDate": "2026-12-21",
+    "date": "2026-11-15",
+    "endDate": "2026-12-19",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-30",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Hackathon organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "₹5,00,000 + Vouchers",
+    "prize": "₹2,50,000 & Gadgets",
     "tags": [
       "Google Developer Groups",
       "Hackathon",
       "In-person"
     ],
-    "registered": 1222,
+    "registered": 1470,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -604,20 +604,20 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Competition",
-    "date": "2026-11-01",
-    "endDate": "2026-12-19",
+    "date": "2026-12-09",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-28",
     "description": "Join us for this exciting Competition organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "MacBook Pro + Certificates",
+    "prize": "Cash Prizes Up to ₹10 Lakhs",
     "tags": [
       "MLH",
       "Competition",
       "Online"
     ],
-    "registered": 2124,
+    "registered": 2988,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -627,12 +627,12 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-24",
-    "endDate": "2026-12-20",
+    "date": "2026-11-12",
+    "endDate": "2026-12-19",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-24",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Bootcamp organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -640,7 +640,7 @@
       "Bootcamp",
       "In-person"
     ],
-    "registered": 3094,
+    "registered": 1178,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -650,12 +650,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Workshop",
-    "date": "2026-11-20",
-    "endDate": "2026-12-20",
+    "date": "2026-11-25",
+    "endDate": "2026-12-18",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-20",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Workshop organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -663,7 +663,7 @@
       "Workshop",
       "Online"
     ],
-    "registered": 643,
+    "registered": 1221,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -673,12 +673,12 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Conference",
-    "date": "2026-11-15",
-    "endDate": "2026-12-17",
+    "date": "2026-11-18",
+    "endDate": "2026-12-21",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-29",
+    "registrationDeadline": "2026-10-27",
     "description": "Join us for this exciting Conference organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -686,7 +686,7 @@
       "Conference",
       "In-person"
     ],
-    "registered": 2690,
+    "registered": 4369,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -696,20 +696,20 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-11-11",
-    "endDate": "2026-12-20",
+    "date": "2026-12-01",
+    "endDate": "2026-12-17",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-21",
+    "registrationDeadline": "2026-10-22",
     "description": "Join us for this exciting Hackathon organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Cash Prizes Up to ₹10 Lakhs",
+    "prize": "₹2,50,000 & Gadgets",
     "tags": [
       "Naukri Campus",
       "Hackathon",
       "Online"
     ],
-    "registered": 4353,
+    "registered": 1053,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -719,12 +719,12 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Competition",
-    "date": "2026-12-09",
-    "endDate": "2026-12-20",
+    "date": "2026-11-27",
+    "endDate": "2026-12-17",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-30",
+    "registrationDeadline": "2026-10-31",
     "description": "Join us for this exciting Competition organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "₹2,50,000 & Gadgets",
     "tags": [
@@ -732,7 +732,7 @@
       "Competition",
       "In-person"
     ],
-    "registered": 2934,
+    "registered": 3385,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -742,12 +742,12 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Bootcamp",
-    "date": "2026-12-08",
-    "endDate": "2026-12-20",
+    "date": "2026-11-07",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-31",
+    "registrationDeadline": "2026-10-21",
     "description": "Join us for this exciting Bootcamp organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -755,7 +755,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 4453,
+    "registered": 3331,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -765,12 +765,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Workshop",
-    "date": "2026-11-10",
-    "endDate": "2026-12-18",
+    "date": "2026-11-19",
+    "endDate": "2026-12-17",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-25",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Workshop organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -778,7 +778,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 2968,
+    "registered": 3732,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -788,12 +788,12 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Conference",
-    "date": "2026-11-17",
-    "endDate": "2026-12-18",
+    "date": "2026-11-15",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-26",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Conference organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -801,7 +801,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 2608,
+    "registered": 2012,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -811,12 +811,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-11-30",
-    "endDate": "2026-12-21",
+    "date": "2026-11-11",
+    "endDate": "2026-12-17",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-20",
     "description": "Join us for this exciting Hackathon organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "₹2,50,000 & Gadgets",
     "tags": [
@@ -824,7 +824,7 @@
       "Hackathon",
       "In-person"
     ],
-    "registered": 632,
+    "registered": 1940,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -834,20 +834,20 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Competition",
-    "date": "2026-11-22",
-    "endDate": "2026-12-17",
+    "date": "2026-12-10",
+    "endDate": "2026-12-20",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-30",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Competition organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "₹2,50,000 & Gadgets",
+    "prize": "Cash Prizes Up to ₹10 Lakhs",
     "tags": [
       "Hack2skill",
       "Competition",
       "Online"
     ],
-    "registered": 1719,
+    "registered": 4053,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -857,12 +857,12 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-15",
+    "date": "2026-11-12",
     "endDate": "2026-12-20",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-29",
     "description": "Join us for this exciting Bootcamp organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -870,7 +870,7 @@
       "Bootcamp",
       "In-person"
     ],
-    "registered": 1794,
+    "registered": 1505,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -880,8 +880,8 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Workshop",
-    "date": "2026-11-03",
-    "endDate": "2026-12-19",
+    "date": "2026-11-06",
+    "endDate": "2026-12-17",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
@@ -893,7 +893,7 @@
       "Workshop",
       "Online"
     ],
-    "registered": 994,
+    "registered": 1929,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -903,12 +903,12 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Conference",
-    "date": "2026-12-01",
-    "endDate": "2026-12-21",
+    "date": "2026-11-01",
+    "endDate": "2026-12-20",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-26",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Conference organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -916,7 +916,7 @@
       "Conference",
       "In-person"
     ],
-    "registered": 4150,
+    "registered": 4322,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -926,12 +926,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-11",
-    "endDate": "2026-12-18",
+    "date": "2026-11-07",
+    "endDate": "2026-12-20",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-21",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Hackathon organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Paid Internship Vouchers",
     "tags": [
@@ -939,7 +939,7 @@
       "Hackathon",
       "Online"
     ],
-    "registered": 3092,
+    "registered": 702,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -949,12 +949,12 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Competition",
-    "date": "2026-11-09",
-    "endDate": "2026-12-19",
+    "date": "2026-12-09",
+    "endDate": "2026-12-17",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-27",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Competition organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "MacBook Pro + Certificates",
     "tags": [
@@ -962,7 +962,7 @@
       "Competition",
       "In-person"
     ],
-    "registered": 1188,
+    "registered": 1429,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -972,12 +972,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-07",
-    "endDate": "2026-12-18",
+    "date": "2026-11-19",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-21",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Bootcamp organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -985,7 +985,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 1205,
+    "registered": 2075,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -995,12 +995,12 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Workshop",
-    "date": "2026-12-13",
-    "endDate": "2026-12-18",
+    "date": "2026-11-14",
+    "endDate": "2026-12-21",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-24",
+    "registrationDeadline": "2026-10-26",
     "description": "Join us for this exciting Workshop organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1008,7 +1008,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 1654,
+    "registered": 3791,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -1018,12 +1018,12 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Conference",
-    "date": "2026-12-11",
-    "endDate": "2026-12-17",
+    "date": "2026-11-05",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Conference organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1031,7 +1031,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 1598,
+    "registered": 2045,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -1041,20 +1041,20 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-03",
+    "date": "2026-12-04",
     "endDate": "2026-12-20",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-26",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Hackathon organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Paid Internship Vouchers",
+    "prize": "MacBook Pro + Certificates",
     "tags": [
       "Commudle",
       "Hackathon",
       "In-person"
     ],
-    "registered": 1881,
+    "registered": 4192,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -1064,20 +1064,20 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Competition",
-    "date": "2026-12-12",
-    "endDate": "2026-12-19",
+    "date": "2026-12-16",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-29",
     "description": "Join us for this exciting Competition organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Cash Prizes Up to ₹10 Lakhs",
+    "prize": "Paid Internship Vouchers",
     "tags": [
       "Google Developer Groups",
       "Competition",
       "Online"
     ],
-    "registered": 3782,
+    "registered": 1144,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -1087,12 +1087,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-17",
+    "date": "2026-12-08",
     "endDate": "2026-12-18",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-25",
+    "registrationDeadline": "2026-10-21",
     "description": "Join us for this exciting Bootcamp organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1100,7 +1100,7 @@
       "Bootcamp",
       "In-person"
     ],
-    "registered": 2164,
+    "registered": 1289,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -1110,12 +1110,12 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Workshop",
-    "date": "2026-11-22",
-    "endDate": "2026-12-21",
+    "date": "2026-11-29",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-19",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Workshop organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1123,7 +1123,7 @@
       "Workshop",
       "Online"
     ],
-    "registered": 4340,
+    "registered": 1538,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -1133,12 +1133,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Conference",
-    "date": "2026-11-09",
-    "endDate": "2026-12-21",
+    "date": "2026-11-28",
+    "endDate": "2026-12-17",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Conference organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1146,7 +1146,7 @@
       "Conference",
       "In-person"
     ],
-    "registered": 3527,
+    "registered": 784,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -1156,20 +1156,20 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Hackathon",
-    "date": "2026-11-26",
+    "date": "2026-12-05",
     "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-20",
     "description": "Join us for this exciting Hackathon organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Cash Prizes Up to ₹10 Lakhs",
+    "prize": "₹5,00,000 + Vouchers",
     "tags": [
       "Hack2skill",
       "Hackathon",
       "Online"
     ],
-    "registered": 512,
+    "registered": 787,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -1179,20 +1179,20 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Competition",
-    "date": "2026-11-26",
-    "endDate": "2026-12-21",
+    "date": "2026-11-29",
+    "endDate": "2026-12-17",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-28",
     "description": "Join us for this exciting Competition organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "₹5,00,000 + Vouchers",
+    "prize": "Cash Prizes Up to ₹10 Lakhs",
     "tags": [
       "Naukri Campus",
       "Competition",
       "In-person"
     ],
-    "registered": 2002,
+    "registered": 735,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -1202,12 +1202,12 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-08",
-    "endDate": "2026-12-19",
+    "date": "2026-12-07",
+    "endDate": "2026-12-20",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-19",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Bootcamp organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1215,7 +1215,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 4117,
+    "registered": 1549,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -1225,12 +1225,12 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Workshop",
-    "date": "2026-12-02",
-    "endDate": "2026-12-21",
+    "date": "2026-11-28",
+    "endDate": "2026-12-17",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-25",
+    "registrationDeadline": "2026-10-26",
     "description": "Join us for this exciting Workshop organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1238,7 +1238,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 4380,
+    "registered": 2514,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -1248,12 +1248,12 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Conference",
-    "date": "2026-11-05",
-    "endDate": "2026-12-18",
+    "date": "2026-11-03",
+    "endDate": "2026-12-19",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-28",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Conference organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1261,7 +1261,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 2279,
+    "registered": 1553,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -1271,20 +1271,20 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Hackathon",
-    "date": "2026-12-12",
-    "endDate": "2026-12-20",
+    "date": "2026-11-12",
+    "endDate": "2026-12-21",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-31",
+    "registrationDeadline": "2026-10-27",
     "description": "Join us for this exciting Hackathon organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "₹2,50,000 & Gadgets",
+    "prize": "MacBook Pro + Certificates",
     "tags": [
       "GeeksforGeeks",
       "Hackathon",
       "In-person"
     ],
-    "registered": 2699,
+    "registered": 3273,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -1294,12 +1294,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Competition",
-    "date": "2026-11-23",
-    "endDate": "2026-12-21",
+    "date": "2026-11-26",
+    "endDate": "2026-12-18",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-20",
     "description": "Join us for this exciting Competition organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Cash Prizes Up to ₹10 Lakhs",
     "tags": [
@@ -1307,7 +1307,7 @@
       "Competition",
       "Online"
     ],
-    "registered": 3849,
+    "registered": 1105,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -1317,12 +1317,12 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-30",
-    "endDate": "2026-12-21",
+    "date": "2026-11-28",
+    "endDate": "2026-12-19",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-28",
+    "registrationDeadline": "2026-10-30",
     "description": "Join us for this exciting Bootcamp organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1330,7 +1330,7 @@
       "Bootcamp",
       "In-person"
     ],
-    "registered": 997,
+    "registered": 4144,
     "applyUrl": "https://hack2skill.com/"
   },
   {
@@ -1340,12 +1340,12 @@
     "organizer": "Naukri Campus",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=naukri.com&sz=64",
     "type": "Workshop",
-    "date": "2026-12-06",
+    "date": "2026-11-06",
     "endDate": "2026-12-20",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-30",
+    "registrationDeadline": "2026-10-27",
     "description": "Join us for this exciting Workshop organized by Naukri Campus. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1353,7 +1353,7 @@
       "Workshop",
       "Online"
     ],
-    "registered": 1729,
+    "registered": 1629,
     "applyUrl": "https://www.naukri.com/campus/"
   },
   {
@@ -1363,12 +1363,12 @@
     "organizer": "Commudle",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=commudle.com&sz=64",
     "type": "Conference",
-    "date": "2026-12-09",
-    "endDate": "2026-12-19",
+    "date": "2026-11-27",
+    "endDate": "2026-12-17",
     "location": "Chennai, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-23",
+    "registrationDeadline": "2026-10-19",
     "description": "Join us for this exciting Conference organized by Commudle. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1376,7 +1376,7 @@
       "Conference",
       "In-person"
     ],
-    "registered": 2156,
+    "registered": 4478,
     "applyUrl": "https://www.commudle.com/"
   },
   {
@@ -1386,20 +1386,20 @@
     "organizer": "Google Developer Groups",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64",
     "type": "Hackathon",
-    "date": "2026-11-24",
-    "endDate": "2026-12-19",
+    "date": "2026-12-03",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-19",
+    "registrationDeadline": "2026-10-24",
     "description": "Join us for this exciting Hackathon organized by Google Developer Groups. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "Swags & Stickers",
+    "prize": "₹2,50,000 & Gadgets",
     "tags": [
       "Google Developer Groups",
       "Hackathon",
       "Online"
     ],
-    "registered": 1897,
+    "registered": 2815,
     "applyUrl": "https://gdg.community.dev/"
   },
   {
@@ -1409,20 +1409,20 @@
     "organizer": "MLH",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=mlh.io&sz=64",
     "type": "Competition",
-    "date": "2026-12-03",
-    "endDate": "2026-12-17",
+    "date": "2026-11-27",
+    "endDate": "2026-12-21",
     "location": "Hyderabad, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-28",
+    "registrationDeadline": "2026-10-31",
     "description": "Join us for this exciting Competition organized by MLH. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
-    "prize": "MacBook Pro + Certificates",
+    "prize": "₹2,50,000 & Gadgets",
     "tags": [
       "MLH",
       "Competition",
       "In-person"
     ],
-    "registered": 895,
+    "registered": 2412,
     "applyUrl": "https://mlh.io/"
   },
   {
@@ -1432,12 +1432,12 @@
     "organizer": "GeeksforGeeks",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=geeksforgeeks.org&sz=64",
     "type": "Bootcamp",
-    "date": "2026-11-12",
-    "endDate": "2026-12-21",
+    "date": "2026-12-14",
+    "endDate": "2026-12-17",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-22",
+    "registrationDeadline": "2026-10-25",
     "description": "Join us for this exciting Bootcamp organized by GeeksforGeeks. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1445,7 +1445,7 @@
       "Bootcamp",
       "Online"
     ],
-    "registered": 1702,
+    "registered": 3601,
     "applyUrl": "https://practice.geeksforgeeks.org/events"
   },
   {
@@ -1455,12 +1455,12 @@
     "organizer": "Unstop",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=unstop.com&sz=64",
     "type": "Workshop",
-    "date": "2026-11-18",
-    "endDate": "2026-12-20",
+    "date": "2026-11-24",
+    "endDate": "2026-12-19",
     "location": "Pune, India",
     "isOnline": false,
     "banner": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-24",
+    "registrationDeadline": "2026-10-23",
     "description": "Join us for this exciting Workshop organized by Unstop. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1468,7 +1468,7 @@
       "Workshop",
       "In-person"
     ],
-    "registered": 1263,
+    "registered": 2011,
     "applyUrl": "https://unstop.com/"
   },
   {
@@ -1478,12 +1478,12 @@
     "organizer": "Hack2skill",
     "organizerLogo": "https://www.google.com/s2/favicons?domain=hack2skill.com&sz=64",
     "type": "Conference",
-    "date": "2026-11-08",
-    "endDate": "2026-12-20",
+    "date": "2026-11-24",
+    "endDate": "2026-12-21",
     "location": "Online",
     "isOnline": true,
     "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop&q=60",
-    "registrationDeadline": "2026-10-21",
+    "registrationDeadline": "2026-10-26",
     "description": "Join us for this exciting Conference organized by Hack2skill. Learn new skills, compete for massive prizes, and network with experts in the tech industry. Perfect opportunity for students and freshers.",
     "prize": "Participation Certificates & Swags",
     "tags": [
@@ -1491,7 +1491,7 @@
       "Conference",
       "Online"
     ],
-    "registered": 2990,
+    "registered": 3803,
     "applyUrl": "https://hack2skill.com/"
   }
 ]
